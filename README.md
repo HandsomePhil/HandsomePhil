@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hey, I'm Phil
+
+I’m a Product and UX Designer with over a decade of user-centered design experience, who loves creating innovative digital products with awesome folks. I'm a lifelong creative living in the Midwest with my wife and two awesome children. I enjoy advocating for design thinking and mentoring designers to solve complex problems with elegant solutions. I am captivated by exploring UX in emerging technologies, and relish making things that people actually want to use.
+
+### 🌐 Links
+[Portfolio](https://www.handsomephil.com) | [LinkedIn](https://www.linkedin.com/in/philipmcarter/) | [Codepen](https://codepen.io/HandsomePhil)
+
 
 <!--
 **HandsomePhil/HandsomePhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
