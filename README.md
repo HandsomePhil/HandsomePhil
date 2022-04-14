@@ -7,7 +7,7 @@ I’m a Principal UX Designer with over a decade of user-centered design experie
 ## 🌐 Links
 [Portfolio](https://www.handsomephil.com) | [LinkedIn](https://www.linkedin.com/in/philipmcarter/) | [Codepen](https://codepen.io/HandsomePhil) | [ADPList](https://adplist.org/mentors/phil-carter)
 
-## ⭐Favorite things
+## ⭐Favorites
 [Chrome Theme](https://chrome.google.com/webstore/detail/modern-flat/pdcjjgefkpoemmlcjfcfkeminneboaob)
 
 
