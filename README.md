@@ -8,6 +8,7 @@ I’m a UX Design Lead with over a decade of user-centered design experience, an
 [Portfolio](https://www.handsomephil.com) | [LinkedIn](https://www.linkedin.com/in/philipmcarter/) | [Codepen](https://codepen.io/HandsomePhil) | [ADPList](https://adplist.org/mentors/phil-carter)
 
 ## ⭐Favorites
+[My Firefox Themes](https://addons.mozilla.org/en-US/firefox/user/17715896/)
 [Chrome Theme](https://chrome.google.com/webstore/detail/modern-flat/pdcjjgefkpoemmlcjfcfkeminneboaob)
 
 
