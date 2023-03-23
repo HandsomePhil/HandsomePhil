@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Phil
 
-I’m a UX Designer with over a decade of user-centered design experience, and I love creating innovative digital products with awesome folks. I'm a lifelong creative living in the Midwest with my wife and two awesome children. I enjoy advocating for design thinking and mentoring designers to solve complex problems with elegant solutions. I am captivated by exploring UX in emerging technologies, and relish making things that people actually want to use.
+I’m a UX Design Lead with over a decade of user-centered design experience, and I love creating innovative digital products with awesome folks. I'm a lifelong creative living in the Midwest with my wife and two awesome children. I enjoy advocating for design thinking and mentoring designers to solve complex problems with elegant solutions. I am captivated by exploring UX in emerging technologies, and relish making things that people actually want to use.
 
 ## 🌐 Links
 [Portfolio](https://www.handsomephil.com) | [LinkedIn](https://www.linkedin.com/in/philipmcarter/) | [Codepen](https://codepen.io/HandsomePhil) | [ADPList](https://adplist.org/mentors/phil-carter)
